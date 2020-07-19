@@ -1,0 +1,7 @@
+/auth_request§login§password
+/auth_accept§nickname
+/auth_error
+/bcast§time§src§message
+/msg_format_error
+/user_list§user1§user2§....
+
