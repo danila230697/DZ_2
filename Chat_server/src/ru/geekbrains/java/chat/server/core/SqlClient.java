@@ -38,7 +38,8 @@ public abstract class SqlClient {
             throw new RuntimeException(e);
         }
     }
-
+//Пытался сделать добавления нового пользователя через джаву но не получилось
+    // Надеюсь что расскажите как это сделать у меня
     synchronized static String create(String login, String password, String nickname){
         String request = "INSERT INTO users (login,password,nickname) VALUES (login'" + login + "'  password'" + password + " nickname'" + nickname + "'";
         try {
