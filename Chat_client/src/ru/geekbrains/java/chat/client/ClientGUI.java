@@ -123,7 +123,7 @@ public class ClientGUI extends JFrame implements ActionListener, Thread.Uncaught
         tfMessage.setText(null);
         tfMessage.requestFocusInWindow();
         socketThread.sendMessage(Messages.getTypeBroadcastShort(msg));
-        //Домашка 3 запись в файл log.txt сообщений
+        //Домашка 3 запись в файл log.txt сообщений!
        try (FileWriter out = new FileWriter("log.txt", true)) {
             out.write(username + ": " + msg + "\n");
             out.flush();
