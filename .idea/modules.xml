@@ -5,9 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/Chat_client/Chat_client.iml" filepath="$PROJECT_DIR$/Chat_client/Chat_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chat_library/Chat_library.iml" filepath="$PROJECT_DIR$/Chat_library/Chat_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chat_server/Chat_server.iml" filepath="$PROJECT_DIR$/Chat_server/Chat_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_6/HW_6.iml" filepath="$PROJECT_DIR$/HW_6/HW_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stream180409.iml" filepath="$PROJECT_DIR$/Stream180409.iml" />
       <module fileurl="file://$PROJECT_DIR$/Z_lessons/Z_lessons.iml" filepath="$PROJECT_DIR$/Z_lessons/Z_lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz_4/dz_4.iml" filepath="$PROJECT_DIR$/dz_4/dz_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/network/network.iml" filepath="$PROJECT_DIR$/network/network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
